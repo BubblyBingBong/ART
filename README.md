@@ -14,35 +14,35 @@ Please move mouse over each photo to reveal its title and click to watch the ori
 [<img src="piano/piano-2018.png" width="25%" title="2018 - Courante - G.F. Handel">](https://www.youtube.com/watch?v=QeqAbFfTPKg)
 
 
-## Original Profolio
+## Original Portfolio
 Please hover mouse over each image to display its title and click to view the original drawing.
 
 <table class="center">
     <tr>
-    <td><img src="profolio/portrait.jpg" alt="image" style="width:auto;height:200px;" title="portrait"></td>
-    <td><img src="profolio/eye.jpg" alt="image" style="width:auto;height:200px;" title="eye"></td>
-    <td><img src="profolio/boy.jpg" alt="image" style="width:auto;height:200px;" title="boy"></td>
+    <td><img src="portfolio/portrait.jpg" alt="image" style="width:auto;height:200px;" title="Middle-aged Man Portrait - Charcoal"></td>
+    <td><img src="portfolio/eye.jpg" alt="image" style="width:auto;height:200px;" title="Black Hole Eye - Scratchboard"></td>
+    <td><img src="portfolio/boy.jpg" alt="image" style="width:auto;height:200px;" title="Self Portrait - Pencil"></td>
     </tr>
     </table>
     <table class="center">
     <tr>
-    <td><img src="profolio/sunflowers.jpg" alt="image" style="width:auto;height:200px;" title="sunflower"></td>
-    <td><img src="profolio/mandala.jpg" alt="image" style="width:auto;height:200px;" title="mandala"></td>
-    <td><img src="profolio/parrot.jpg" alt="image" style="width:auto;height:200px;" title="parrot"></td>
+    <td><img src="portfolio/sunflowers.jpg" alt="image" style="width:auto;height:200px;" title="Sunflower - Oil Paint"></td>
+    <td><img src="portfolio/mandala.jpg" alt="image" style="width:auto;height:200px;" title="Hibiscus Mandala - Colored Pencil"></td>
+    <td><img src="portfolio/parrot.jpg" alt="image" style="width:auto;height:200px;" title="Parrot - Oil Paint"></td>
     </tr>
     </table>
     <table class="center">
     <tr>
-    <td><img src="profolio/trump.jpg" alt="image" style="width:auto;height:200px;" title="trump"></td>
-    <td><img src="profolio/ants.jpg" alt="image" style="width:auto;height:200px;" title="ants"></td>
-    <td><img src="profolio/tiger.jpg" alt="image" style="width:auto;height:200px;" title="tiger"></td>
+    <td><img src="portfolio/trump.jpg" alt="image" style="width:auto;height:200px;" title="Trump Portrait - Charcoal"></td>
+    <td><img src="portfolio/ants.jpg" alt="image" style="width:auto;height:200px;" title="Ant Crisis - Pen & Ink"></td>
+    <td><img src="portfolio/tiger.jpg" alt="image" style="width:auto;height:200px;" title="Tiger - Charcoal"></td>
     </tr>
     </table>
     <table class="center">
     <tr>
-    <td><img src="profolio/turtle.jpg" alt="image" style="width:auto;height:200px;" title="turtle"></td>
-    <td><img src="profolio/foodchain.jpg" alt="image" style="width:auto;height:200px;" title="food chain"></td>
-    <td><img src="profolio/cave.jpg" alt="image" style="width:auto;height:200px;" title="cave"></td>
+    <td><img src="portfolio/turtle.jpg" alt="image" style="width:auto;height:200px;" title="Turtle Stamps - Linoleum Cut"></td>
+    <td><img src="portfolio/foodchain.jpg" alt="image" style="width:auto;height:200px;" title="Food Chain - Colored Pencil + Pen & Ink"></td>
+    <td><img src="portfolio/cave.jpg" alt="image" style="width:auto;height:200px;" title="Monster Cave - Magazine Mosaic"></td>
     </tr>
 </table>
 
@@ -52,9 +52,9 @@ Here demonstrates several digital AI enhancement through my experiments, hang mo
 
 <table class="center">
     <tr>
-    <td><img src="artwork/tiger.png" alt="image" style="width:auto;height:200px;" title="colored tiger"></td>
-    <td><img src="artwork/portrait.gif" alt="image" style="width:auto;height:200px;" title="smiling portrait"></td>
-    <td><img src="artwork/parrot.gif" alt="image" style="width:auto;height:200px;" title="mosaic parrot"></td>
+    <td><img src="artwork/tiger.png" alt="image" style="width:auto;height:200px;" title="Colorization Tiger - Digital Art w/ Stable Diffusion ControlNet"></td>
+    <td><img src="artwork/portrait.gif" alt="image" style="width:auto;height:200px;" title="Animation Portrait - Digital Art w/ Stable Diffusion AnimateDiff"></td>
+    <td><img src="artwork/parrot.gif" alt="image" style="width:auto;height:200px;" title="Mosaic Parrot - Digital Art through Stable Diffusion"></td>
     </tr>
 </table>
 
