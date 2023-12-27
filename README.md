@@ -1,19 +1,19 @@
 # ART
 
-Welcome to the Art repository site including piano, drawing and digital artwork.
+Welcome to the Art repository site including music and artworks.
 
 
 ## Achievements
 Listed here are various awards and honors
 
 - [The Associated Board of the Royal Schools of Music Grade 8 Piano Performance Distinction 2023](achievement/abrsm2023.png)
-- [National Youth Art Contect Silver Award 2023](achievement/nyac2023.png)
+- [National Youth Art Contest Silver Award 2023](achievement/nyac2023.png)
 - [The Associated Board of the Royal Schools of Music Grade 5 Music Theory Distinction 2021](achievement/abrsm2021.png)
-- [Youth Art Contect Silver Award 2020](achievement/yac2020.png)
+- [Youth Art Contest Silver Award 2020](achievement/yac2020.png)
 
 
 ## Piano Recital
-Please move mouse over each photo to reveal its title and click to watch the original piano recital.
+Hover over each image to display its title, and click to watch the original piano recital.
 
 [<img src="piano/piano-2023.png" width="25%" title="2023 - Fantaisie Impromptu - F. Chopin">](https://www.youtube.com/watch?v=3OIAU8PN-ns)
 [<img src="piano/piano-2022.png" width="25%" title="2022 - Juin: Barcarolle - P. Tchaikovsky">](https://www.youtube.com/watch?v=DYnrSVRDT64)
@@ -24,7 +24,7 @@ Please move mouse over each photo to reveal its title and click to watch the ori
 
 
 ## Original Portfolio
-Please hover mouse over each image to display its title and click to view the original drawing.
+Hover over each image to display its title, and click to view the original drawing.
 
 <table class="center">
     <tr>
@@ -57,7 +57,7 @@ Please hover mouse over each image to display its title and click to view the or
 
 
 ## Digital Artwork
-Here demonstrates several digital AI enhancement through my experiments, hang mouse over each picture to show its title and click for a closer view.
+Here are examples of my experiments for digital AI enhancements. Hover over each image to show its title, and click for a closer view.
 
 <table class="center">
     <tr>
